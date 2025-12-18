@@ -7,7 +7,7 @@ Participants were exposed to 27 stimuli combining:
 
 - **Noise types:** Motorcycle, Street, Train
 - **Sound pressure levels:** 55, 65, 72 dB(A)
-- **ANC conditions:** No control, NLMS (Normalized Least-Mean-Square), SFANC-NLMS (Hybrid Selective Fixed-Filter ANC normalized LMS)
+- **ANC conditions:** No control, NLMS, SFANC-NLMS
 
 ## Metrics Collected
 - **Perceived Annoyance (PAY)**
